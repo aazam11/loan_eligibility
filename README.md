@@ -1,8 +1,10 @@
+## Loan Prediction Machine Learning Project
+
 This repository contains a Machine Learning project implemented in Python using Jupyter Notebook. The project focuses on predicting loan approval likelihood based on various applicant features.
 The primary aim of this project is to assist financial institutions in automating the decision-making process for loan approvals, 
 thus streamlining operations and potentially reducing biases inherent in manual assessments.
 
-Features:
+## Features:
 
 Data Preprocessing: Includes data cleaning, handling missing values, and feature engineering.
 
@@ -15,7 +17,7 @@ Model Evaluation: Performance evaluation metrics including accuracy, precision, 
 Deployment: The trained model can be deployed in production environments for real-time loan approval predictions.
 
 
-Usage:
+## Usage:
 
 Install Dependencies: Ensure you have the necessary Python libraries installed by running pip install -r requirements.txt.
 
@@ -24,7 +26,7 @@ Dataset:
 
 The project utilizes a dataset containing information about loan applicants, including features such as income, credit history, loan amount, etc. The dataset is provided as loan_data.csv within the repository.
 
-Future Improvements:
+## Future Improvements:
 Incorporating advanced feature engineering techniques.
 Experimenting with different machine learning algorithms and hyperparameter tuning for better model performance.
 Integration with web frameworks for building user-friendly interfaces for loan prediction.
